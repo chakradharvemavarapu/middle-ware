@@ -1,0 +1,1 @@
+open cmd and type this command: java -jar hr tab
